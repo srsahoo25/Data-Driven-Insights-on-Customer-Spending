@@ -29,5 +29,10 @@ The analysis is based on a CSV file containing sales data with 11,251 entries an
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sales-analysis.git
-   cd sales-analysis
+   git clone https://github.com/srsahoo25/Data-Driven-Insights-on-Customer-Spending.git
+   cd Data-Driven-Insights-on-Customer-Spending
+
+## Results
+- Insights into the most popular product categories
+- Identification of high-value customer segments
+- Trends in regional sales performance
