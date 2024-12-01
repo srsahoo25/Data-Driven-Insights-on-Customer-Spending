@@ -11,6 +11,7 @@ This project focuses on analyzing sales data to uncover meaningful insights. By 
 
 ## Libraries Used
 - **Pandas**: For data manipulation and analysis
+- **NumPy**: For numerical computations
 - **Matplotlib**: For creating static, animated, and interactive visualizations
 - **Seaborn**: For advanced data visualization
 
