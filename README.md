@@ -1,4 +1,4 @@
-# Data-Driven-Insights-on-Customer-Spending
+# Exploratory Data Analysis on Customer Spending
 
 ## Overview
 This project focuses on analyzing sales data to uncover meaningful insights. By using Python's powerful data analysis and visualization libraries, this project highlights trends, patterns, and key statistics to support data-driven decision-making.
